@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "875343869249",
+    "firebase_url": "https://chatbox-c12c8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chatbox-c12c8",
+    "storage_bucket": "chatbox-c12c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875343869249:android:7feb810199ad79811e1dc0",
+        "android_client_info": {
+          "package_name": "com.example.chatbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875343869249-6m42aro7hp5he75jrkdjgp26btcos5c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FyPepzUd-1WMwuGzOCv3-X_rW88DHA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875343869249-6m42aro7hp5he75jrkdjgp26btcos5c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
